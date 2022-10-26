@@ -128,7 +128,7 @@ a {
 
 /* Join Page */
 .join-container {
-	max-width: 500px;
+	max-width: auto;
 	margin: 80px auto;
 	color: #fff;
 }
